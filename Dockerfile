@@ -15,11 +15,6 @@ RUN go get -u github.com/tomnomnom/unfurl
 RUN go get github.com/tomnomnom/waybackurls
 RUN go get github.com/OWASP/Amass
 
-RUN cp /root/go/bin/* 
-
-
-
-
 RUN mkdir /data
 
 CMD "/bin/bash"
