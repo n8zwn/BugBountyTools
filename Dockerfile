@@ -1,6 +1,6 @@
 FROM golang:alpine
 
-LABEL maintainer="heywoodlh"
+LABEL maintainer="nateysmith"
 
 RUN apk add git
 RUN apk add bash
