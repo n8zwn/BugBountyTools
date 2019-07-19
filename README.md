@@ -1,7 +1,7 @@
 # BugBountyTools
 Tools written in Go for BugBounty from Tomnomnom (https://github.com/tomnomnom) and others
 
-Thanks to heywoodlh for his work on this!
+Thanks to [heywoodlh](https://github.com/heywoodlh) for his work on this!
 
 ## Examples:
 
