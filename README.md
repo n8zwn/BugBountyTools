@@ -1,5 +1,5 @@
 # BugBountyTools
-Tools written in Go for BugBounty from [Tomnomnom](https://github.com/tomnomnom) and others inside of a docker container. 
+Tools written in Go for BugBounty from [Tomnomnom](https://github.com/tomnomnom) and others inside of a docker image. 
 
 Thanks to [heywoodlh](https://github.com/heywoodlh) for his work on integrating this into our workflow!
 
