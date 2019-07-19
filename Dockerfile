@@ -13,6 +13,7 @@ RUN go get -u github.com/tomnomnom/httprobe
 RUN go get -u github.com/tomnomnom/meg
 RUN go get -u github.com/tomnomnom/unfurl
 RUN go get github.com/tomnomnom/waybackurls
+Run go get github.com/OWASP/Amass
 
 RUN cp /root/go/bin/* 
 
