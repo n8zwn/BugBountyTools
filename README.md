@@ -28,6 +28,10 @@ gron "https://api.github.com/repos/tomnomnom/gron/commits?per_page=1"
 cat domains.txt | httprobe
 ```
 
+###[inception](https://github.com/proabiral/inception):
+```
+inception -d /path/to/domainlist.txt
+```
 
 ### [meg](https://github.com/tomnomnom/meg):
 ```
