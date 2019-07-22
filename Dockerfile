@@ -18,6 +18,7 @@ RUN go get -u github.com/tomnomnom/meg
 RUN go get -u github.com/tomnomnom/unfurl
 RUN go get -u github.com/tomnomnom/waybackurls
 RUN go get -u github.com/proabiral/inception
+RUN go get -u github.com/OJ/gobuster
 
 RUN mkdir /data
 
