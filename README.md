@@ -17,11 +17,15 @@ assetfinder example.com
 echo '192.168.1.135' | gf ip
 ```
 
+### [gobuster](https://github.com/OJ/gobuster)
+```
+gobuster dir -u https://example.com -w /path/to/wordlist
+```
+
 ### [gron](https://github.com/tomnomnom/gron): 
 ```
 gron "https://api.github.com/repos/tomnomnom/gron/commits?per_page=1"
 ```
-
 
 ### [httprobe](https://github.com/tomnomnom/httprobe):
 ```
